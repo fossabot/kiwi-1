@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fkiwi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fkiwi?ref=badge_shield)
+
 Welcome to Kiwi
 ===============
 
@@ -20,3 +22,7 @@ In addition to the C++ solver, Kiwi ships with hand-rolled Python bindings.
 
 The version 1.1.0 of the Python bindings will be the last one to support
 Python 2, moving forward support will be limited to Python 3.5+.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fkiwi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fkiwi?ref=badge_large)
